@@ -8,3 +8,5 @@ Project made in 2019, server on the FiveM platform in Grand Theft Auto set in Ch
 
 Framework: ESX.
 Onesync: Legacy
+SO: Windows
+
